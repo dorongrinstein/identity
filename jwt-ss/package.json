@@ -1,0 +1,20 @@
+{
+  "name": "jwt-ss",
+  "version": "1.0.0",
+  "description": "JWT Verification side service",
+  "main": "jwt-ss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JWT"
+  ],
+  "author": "Doron Grinstein",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "jsonwebtoken": "^4.2.1",
+    "lodash": "^3.6.0",
+    "nconf": "^0.7.1"
+  }
+}
